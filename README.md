@@ -3,7 +3,7 @@ Discord Nitro Automator/Flexer
 
 <h1>Basic Information About Niflexx</h1>
 
-This tool is open-source discord nitro generator. Its coded for fun and it will not be supported after a while. Dont forget that project is for **FUN**. 
+This tool is open-source discord mix-pack. I mean it contains things about discord. Its coded for fun and it will not be supported after a while. Dont forget that project is for **FUN**. 
 
 NOTE: 
 If you perfrom any illegal activities with this tool, **I WILL NOT TAKE RESPONSIBILITY.** 
