@@ -1,5 +1,5 @@
 # Niflexx
-Discord Nitro Automator/Flexer
+No Support Only Chat discord: https://discord.gg/d2XyHNsqsG
 
 <h1>Basic Information About Niflexx</h1>
 
